@@ -155,7 +155,7 @@
     <!-- FOOTER -->
     <footer class="py-6 border-t border-gray-800">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-gray-500">
-            Tác giả: Duong Minh Long, © 2025 Powered by Pri in Vietnam ( new )
+            Tác giả: Duong Minh Long, © 2025 Powered by Pri in Vietnam ( Mới có, trên Internet không có đâu! )
         </div>
     </footer>
 
