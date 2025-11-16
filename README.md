@@ -101,7 +101,7 @@
                     ⚡
                 </div>
                 <h4 class="text-xl font-semibold mb-2">Autosave Siêu Tốc (2s)</h4>
-                <p class="text-gray-400">Không sợ mất dữ liệu. Sau mỗi 2 giây, hệ thống tự động ghi lại note của bro. Tốc độ là tất cả!</p>
+                <p class="text-gray-400">Không sợ mất dữ liệu. Sau mỗi 2 giây, hệ thống tự động ghi lại note của bạn. Tốc độ là tất cả!</p>
             </div>
             
             <!-- FEATURE 2: MARKDOWN NỘI BỘ -->
@@ -155,7 +155,7 @@
     <!-- FOOTER -->
     <footer class="py-6 border-t border-gray-800">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-gray-500">
-            Tác giả: Duong Minh Long, © 2025 Powered by Pri in Vietnam ( Mới có, trên Internet không có đâu! )
+            Tác giả: Duong Minh Long, © 2025 Powered by Duong Minh Long
         </div>
     </footer>
 
