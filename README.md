@@ -66,12 +66,12 @@
                 GHI CHÚ SIÊU TỐC
             </h2>
             <p class="text-2xl text-gray-400 mb-10">
-                (beta_1.0_made_in_vietnam)
+                (beta_1.1_made_in_vietnam)
             </p>
 
             <!-- MÔ TẢ MỞ RỘNG -->
             <p class="text-xl sm:text-2xl text-gray-300 max-w-3xl mx-auto mb-8">
-                "Ghi Chú Siêu Tốc" không chỉ là một ứng dụng ghi chú đơn thuần, nó là công cụ được **chúng tôi** thiết kế dành riêng cho những ai cần tốc độ và sự rõ ràng tuyệt đối trong luồng thông tin. Được xây dựng trên nền tảng Python gọn nhẹ, ứng dụng này giúp bro xử lý, tổ chức và tìm kiếm các **tín hiệu** quan trọng mà không cần phải thoát ra khỏi môi trường làm việc của mình. Tải ngay để trải nghiệm tốc độ của Markdown và sự yên tâm của Autosave 2s!
+                "Ghi Chú Siêu Tốc" không chỉ là một ứng dụng ghi chú đơn thuần, nó là công cụ được **chúng tôi** thiết kế dành riêng cho những ai cần tốc độ và sự rõ ràng tuyệt đối trong luồng thông tin. Được xây dựng trên nền tảng Python gọn nhẹ, ứng dụng này giúp bro xử lý, tổ chức và tìm kiếm các **tín hiệu** quan trọng mà không cần phải thoát ra khỏi môi trường làm việc của mình. Tải ngay để trải nghiệm tốc độ của Markdown và sự yên tâm của Autosave 2s, bản này đã sửa đổi một chút nên chúng tôi xin thông cảm quý khách!
             </p>
 
             <!-- NÚT DOWNLOAD CHÍNH -->
