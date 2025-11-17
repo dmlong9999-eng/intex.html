@@ -71,18 +71,18 @@
 
             <!-- MÔ TẢ MỞ RỘNG -->
             <p class="text-xl sm:text-2xl text-gray-300 max-w-3xl mx-auto mb-8">
-                "Ghi Chú Siêu Tốc" không chỉ là một ứng dụng ghi chú đơn thuần, nó là công cụ được **chúng tôi** thiết kế dành riêng cho những ai cần tốc độ và sự rõ ràng tuyệt đối trong luồng thông tin. Được xây dựng trên nền tảng Python gọn nhẹ, ứng dụng này giúp bro xử lý, tổ chức và tìm kiếm các **tín hiệu** quan trọng mà không cần phải thoát ra khỏi môi trường làm việc của mình. Tải ngay để trải nghiệm tốc độ của Markdown và sự yên tâm của Autosave 2s, bản này đã sửa đổi một chút nên chúng tôi xin thông cảm quý khách!
+                "Ghi Chú Siêu Tốc" không chỉ là một ứng dụng ghi chú đơn thuần, nó là công cụ được **chúng tôi** thiết kế dành riêng cho những ai cần tốc độ và sự rõ ràng tuyệt đối trong luồng thông tin. Được xây dựng trên nền tảng Python gọn nhẹ, ứng dụng này giúp bro xử lý, tổ chức và tìm kiếm các **tín hiệu** quan trọng mà không cần phải thoát ra khỏi môi trường làm việc của mình. Tải ngay để trải nghiệm tốc độ của Markdown và sự yên tâm của Autosave 2s!
             </p>
 
             <!-- NÚT DOWNLOAD CHÍNH -->
-            <a href="https://drive.google.com/file/d/1ApBWgBdsIj06MiSoZt-8NkF3bv3tX4Rp/view?usp=sharing" target="_blank" 
+            <a href="https://drive.google.com/file/d/1m0U3A74lzfFAzsNZR25s2Yf7VZg5tEiz/view?usp=sharing" target="_blank" 
                class="download-btn inline-block px-12 py-4 text-2xl font-bold text-white rounded-xl uppercase shadow-lg transition duration-300 ease-in-out">
                 TẢI VỀ NGAY (FILE .PY)
             </a>
 
             <!-- HƯỚNG DẪN NGẮN -->
             <p class="mt-4 text-sm text-gray-500">
-                (Link Drive đã được chúng tôi xác nhận. Yêu cầu: Đã cài Python 3.x)
+                (Link Drive đã được chúng tôi xác nhận. Yêu cầu: Cài từ Python 3.x trở lên để tải và dùng)
             </p>
 
         </div>
@@ -98,7 +98,7 @@
             <!-- FEATURE 1: AUTOSAVE 2S -->
             <div class="feature-card p-6 rounded-xl shadow-2xl">
                 <div class="text-4xl mb-3 text-indigo-400">
-                    ⚡
+                    Nhanh, gọn, lẹ
                 </div>
                 <h4 class="text-xl font-semibold mb-2">Autosave Siêu Tốc (2s)</h4>
                 <p class="text-gray-400">Không sợ mất dữ liệu. Sau mỗi 2 giây, hệ thống tự động ghi lại note của bạn. Tốc độ là tất cả!</p>
@@ -107,7 +107,7 @@
             <!-- FEATURE 2: MARKDOWN NỘI BỘ -->
             <div class="feature-card p-6 rounded-xl shadow-2xl">
                 <div class="text-4xl mb-3 text-green-400">
-                    📝
+                    Và... còn rất nhiều định dạng của Markdown!
                 </div>
                 <h4 class="text-xl font-semibold mb-2">Định Dạng Chuẩn Markdown</h4>
                 <p class="text-gray-400">Hỗ trợ các định dạng Bold, Italic, Link, Header ngay trong Tkinter. Ghi chú phải chuyên nghiệp như dân code!</p>
@@ -116,11 +116,19 @@
             <!-- FEATURE 3: TAGGING & SEARCHING -->
             <div class="feature-card p-6 rounded-xl shadow-2xl">
                 <div class="text-4xl mb-3 text-yellow-400">
-                    🔍
+                    Tìm kiếm mạnh mẽ
                 </div>
                 <h4 class="text-xl font-semibold mb-2">Hệ Thống Tags & Tìm Kiếm Đa Năng</h4>
                 <p class="text-gray-400">Quản lý các tín hiệu và thông tin nhiễu loạn bằng #tags. Tìm kiếm xuyên suốt tiêu đề, nội dung và tag.</p>
             </div>
+            <div class="feature-card p-6 rounded-xl shadow-2xl">
+                <div class="text-4xl mb-3 text-green-400">
+                    Khởi động Ghi chú SIêu Tốc
+                </div>
+                <h4 class="text-xl font-semibold mb-2">Hướng dẫn ngắn ( Trên app cũng có )</h4>
+                <p class="text-gray-400">Khi trên máy của bạn mà không có file lưu trữ Data của ứng dụng? Chọn No và sau đó chọn vị trí tệp và nhấn Open, ap sẽ tạo ra cho bạn một file JSON lưu trữ Data để bạn có thể dùng ứng dụng! Nếu như có? Chọn Yes và chọn tệp JSON đó và... bạn đã xem được Data mà mình đã viết và tiếp tục công việc</p>
+            </div>
+
         </div>
     </section>
 
@@ -143,6 +151,7 @@
                     <li>Thêm hỗ trợ định dạng Markdown cơ bản (Bold, Italic) cho nội dung note.</li>
                     <li>Tích hợp cơ chế #tag và thanh tìm kiếm đa năng (Search).</li>
                     <li>Sử dụng giao diện đồ họa Tkinter (Python GUI) tối giản và dễ dùng.</li>
+                    <li>Đã sửa lỗi về chữ ( không phải font ) và tằng ổn định ứng dụng lên
                 </ul>
             </div>
             <!-- Future Placeholder -->
